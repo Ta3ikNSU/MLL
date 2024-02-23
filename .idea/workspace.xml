@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Decision Tree">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.Decision Tree.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Decision Tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -61,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708266188641</updated>
       <workItem from="1708266191271" duration="3350000" />
-      <workItem from="1708685451554" duration="3188000" />
+      <workItem from="1708685451554" duration="3462000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -95,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708689448352</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Decision Tree">
+      <option name="closed" value="true" />
+      <created>1708691966208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708691966208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
