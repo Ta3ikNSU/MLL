@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="init">
+    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Decision Tree">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DBSCAN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8.DBSCAN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.Decision Tree.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/K-Nearest Neighbors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.K-Nearest Neighbors.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logistic Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Logistic Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Naive Bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/6.Naive Bayes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Principal Components Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/9.(opt)Principal Components Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Random Forest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.Random Forest.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Support Vector Machines.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5.Support Vector Machines.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-means.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7.k-means.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.Decision Tree.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708266188641</updated>
       <workItem from="1708266191271" duration="3350000" />
-      <workItem from="1708685451554" duration="2055000" />
+      <workItem from="1708685451554" duration="3188000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -95,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708276617962</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Decision Tree">
+      <option name="closed" value="true" />
+      <created>1708689448352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708689448352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="Decision Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Decision Tree" />
   </component>
 </project>
