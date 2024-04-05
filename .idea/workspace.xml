@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Logistic Regression">
-      <change afterPath="$PROJECT_DIR$/resources/decision_tree.csv" afterDir="false" />
+    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Модифицировал классификационное дерево">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.Decision Tree.ipynb" afterDir="false" />
     </list>
@@ -34,20 +33,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ta3ik/Documents/GitHub/MLL/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ta3ik/Documents/GitHub/MLL/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
@@ -71,7 +70,8 @@
       <workItem from="1708266191271" duration="3350000" />
       <workItem from="1708685451554" duration="3796000" />
       <workItem from="1708710337581" duration="4882000" />
-      <workItem from="1711718198793" duration="4173000" />
+      <workItem from="1711718198793" duration="4946000" />
+      <workItem from="1712250177401" duration="2430000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -129,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708749430779</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Модифицировал классификационное дерево">
+      <option name="closed" value="true" />
+      <created>1711723884333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711723884333</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Модифицировал классификационное дерево">
+      <option name="closed" value="true" />
+      <created>1711723950561</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711723950561</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +167,7 @@
     <MESSAGE value="Decision Tree" />
     <MESSAGE value="Random forest" />
     <MESSAGE value="Logistic Regression" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logistic Regression" />
+    <MESSAGE value="Модифицировал классификационное дерево" />
+    <option name="LAST_COMMIT_MESSAGE" value="Модифицировал классификационное дерево" />
   </component>
 </project>
