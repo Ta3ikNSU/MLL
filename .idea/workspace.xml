@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Классификационное дерево графики">
+    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Графики и картинки для ансамбля">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.Decision Tree.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Random Forest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.Random Forest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Logistic Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Logistic Regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.K-Nearest Neighbors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.K-Nearest Neighbors.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +52,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -65,6 +67,7 @@
       <workItem from="1708266191271" duration="3350000" />
       <workItem from="1708685451554" duration="3796000" />
       <workItem from="1708710337581" duration="2939000" />
+      <workItem from="1715876956089" duration="1601000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -122,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708796849351</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Графики и картинки для ансамбля">
+      <option name="closed" value="true" />
+      <created>1708797846511</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708797846511</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +155,7 @@
     <MESSAGE value="Decision Tree" />
     <MESSAGE value="Random forest" />
     <MESSAGE value="Классификационное дерево графики" />
-    <option name="LAST_COMMIT_MESSAGE" value="Классификационное дерево графики" />
+    <MESSAGE value="Графики и картинки для ансамбля" />
+    <option name="LAST_COMMIT_MESSAGE" value="Графики и картинки для ансамбля" />
   </component>
 </project>
