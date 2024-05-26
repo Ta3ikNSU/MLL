@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="Рандомный лес">
-      <change afterPath="$PROJECT_DIR$/resources/KNNAlgorithmDataset.csv" afterDir="false" />
+    <list default="true" id="6081d10e-b057-4805-a744-73c86ea98e1f" name="Changes" comment="SVM">
+      <change afterPath="$PROJECT_DIR$/resources/kc_house_data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Decision Tree.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1.Decision Tree.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Random Forest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.Random Forest.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.Logistic Regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3.Logistic Regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.K-Nearest Neighbors.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4.K-Nearest Neighbors.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.Naive Bayes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/6.Naive Bayes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.DBSCAN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8.DBSCAN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,33 +34,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/ta3ik/Documents/GitHub/MLL/resources",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ta3ik/Documents/GitHub/MLL/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\snoop\PycharmProjects\MachineLearningsMethods\resources" />
       <recent name="$PROJECT_DIR$/resources" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -82,6 +79,9 @@
       <workItem from="1711718198793" duration="4946000" />
       <workItem from="1712250177401" duration="5387000" />
       <workItem from="1712291631690" duration="12027000" />
+      <workItem from="1715911990314" duration="623000" />
+      <workItem from="1716485867317" duration="1186000" />
+      <workItem from="1716701880877" duration="5601000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -179,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712294350433</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="SVM">
+      <option name="closed" value="true" />
+      <created>1715912014350</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715912014350</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +212,7 @@
     <MESSAGE value="Модифицировал классификационное дерево" />
     <MESSAGE value="Воскресил классификационное дерево" />
     <MESSAGE value="Рандомный лес" />
-    <option name="LAST_COMMIT_MESSAGE" value="Рандомный лес" />
+    <MESSAGE value="SVM" />
+    <option name="LAST_COMMIT_MESSAGE" value="SVM" />
   </component>
 </project>
